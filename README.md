@@ -4,7 +4,7 @@ This project hosts the frontend for the Smart Garden application. It provides a 
 
 ### Screenshot
 
-![Evertz Garden Webpage](webpage/webpage/public/images/garden-screenshot.png)
+![Evertz Garden Webpage](Webpage/webpage/public/images/garden-screenshot.png)
 
 *Caption: The main interface of the Evertz Garden webpage. It displays the current status of the ESP, a scheduled watering queue, manual controls for watering plants by zone, duration, and time, current weather conditions (temperature and precipitation probability), and an hourly precipitation forecast.*
 
